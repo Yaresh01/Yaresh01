@@ -1,4 +1,4 @@
-👋 Hi, I'm @Yaresh01
+👋 Hi, I'm Yaresh Vijayasundaram @Yaresh01
 
 👀 I have a keen interest in data science and business analytics.
 
